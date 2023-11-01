@@ -12,7 +12,7 @@ The live notebook is available always here: https://colab.research.google.com/dr
 
 To cite this simple notebook use:
 
-Graham C, Stansfeld P and Rodrigues C, Conservation-Colab: Conservation to 3D structure, Github, 2022 , doi: 10.5281/zenodo.10062701
+Graham C, Stansfeld P and Rodrigues C, Conservation-Colab: Conservation to 3D structure, Github, 2022 , doi: https://zenodo.org/doi/10.5281/zenodo.10062701 
 
 
 
