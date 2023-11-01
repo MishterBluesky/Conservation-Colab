@@ -1,4 +1,4 @@
-# Conservation-Colab
+# Conservation-Colab: Conservation to 3D structure
 
 This colab workspace allows for automatic conservation analysis, in the absence of the updated Weblogo and Consurf servers. Check run all and download the weblogo.png and .txt files to understand the most conserved residues. It then also adds this to the b-factor of an alphafold generated model, to show this in 3D.
 
