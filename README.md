@@ -10,7 +10,9 @@ Mirdita M, Schütze K, Moriwaki Y, Heo L, Ovchinnikov S, Steinegger M. ColabFold
 
 The live notebook is available always here: https://colab.research.google.com/drive/1s7N6w2VEjadkJVS9bFzyOLaFZ3uImS0k?usp=sharing, which includes an example output.
 
-Graham C, Stansfeld P and Rodrigues C: Conservation-Colab, Github, 2023 https://github.com/MishterBluesky/Conservation-Colab
+To cite this simple notebook use:
+
+Graham C, Stansfeld P and Rodrigues C, Conservation-Colab: Conservation to 3D structure, Github, 10.5281/zenodo.10062701
 
 
 
